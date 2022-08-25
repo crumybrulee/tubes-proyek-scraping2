@@ -1,0 +1,297 @@
+[
+  {
+    "image": "/data/upload/Kids_12.jpg",
+    "id": 4,
+    "Type": "Kids",
+    "Clothes": {
+      "choices": [
+        "T-Shirt",
+        "Overall"
+      ]
+    },
+    "Pants": "Short",
+    "Footwear": "Sneaker",
+    "Color": {
+      "choices": [
+        "Blue",
+        "Red"
+      ]
+    },
+    "annotator": "faizal.abdul.tif420@polban.ac.id",
+    "annotation_id": 13
+  },
+  {
+    "image": "/data/upload/Kids_44.jpg",
+    "id": 20,
+    "Clothes": {
+      "choices": [
+        "Jacket",
+        "Overall"
+      ]
+    },
+    "Pants": "Short",
+    "Accecories": "Watch",
+    "Color": {
+      "choices": [
+        "Blue",
+        "Yellow"
+      ]
+    },
+    "annotator": "faizal.abdul.tif420@polban.ac.id",
+    "annotation_id": 29
+  },
+  {
+    "image": "/data/upload/Kids_17.jpg",
+    "id": 5,
+    "Type": "Kids",
+    "Clothes": "Jacket",
+    "Pants": "Jeans",
+    "Footwear": "Sneaker",
+    "Color": {
+      "choices": [
+        "Blue",
+        "Red",
+        "Green"
+      ]
+    },
+    "annotator": "faizal.abdul.tif420@polban.ac.id",
+    "annotation_id": 14
+  },
+  {
+    "image": "/data/upload/Kids_18.jpg",
+    "id": 6,
+    "Clothes": "Cardigan",
+    "Type": "Kids",
+    "Pants": "Jeans",
+    "Accecories": {
+      "choices": [
+        "Hat",
+        "Scarf"
+      ]
+    },
+    "Footwear": "Slipper",
+    "Color": {
+      "choices": [
+        "White",
+        "Blue",
+        "Green"
+      ]
+    },
+    "annotator": "faizal.abdul.tif420@polban.ac.id",
+    "annotation_id": 15
+  },
+  {
+    "image": "/data/upload/Kids_19.jpg",
+    "id": 7,
+    "Type": "Kids",
+    "Clothes": "Vest",
+    "Accecories": "Hat",
+    "Color": {
+      "choices": [
+        "Blue",
+        "Yellow"
+      ]
+    },
+    "annotator": "faizal.abdul.tif420@polban.ac.id",
+    "annotation_id": 16
+  },
+  {
+    "image": "/data/upload/Kids_21.jpg",
+    "id": 8,
+    "Clothes": "T-Shirt",
+    "Pants": "Short",
+    "Footwear": "Slipper",
+    "Color": "White",
+    "annotator": "faizal.abdul.tif420@polban.ac.id",
+    "annotation_id": 17
+  },
+  {
+    "image": "/data/upload/Kids_22.jpg",
+    "id": 9,
+    "Clothes": "T-Shirt",
+    "Type": "Kids",
+    "Pants": "Jeans",
+    "Color": {
+      "choices": [
+        "White",
+        "Blue"
+      ]
+    },
+    "annotator": "faizal.abdul.tif420@polban.ac.id",
+    "annotation_id": 18
+  },
+  {
+    "image": "/data/upload/Kids_23.jpg",
+    "id": 10,
+    "Type": "Kids",
+    "Clothes": "T-Shirt",
+    "Pants": "Jeans",
+    "Color": {
+      "choices": [
+        "White",
+        "Blue"
+      ]
+    },
+    "annotator": "faizal.abdul.tif420@polban.ac.id",
+    "annotation_id": 19
+  },
+  {
+    "image": "/data/upload/Kids_28.jpg",
+    "id": 11,
+    "Type": "Kids",
+    "Clothes": "T-Shirt",
+    "Accecories": "Hat",
+    "Color": "White",
+    "annotator": "faizal.abdul.tif420@polban.ac.id",
+    "annotation_id": 20
+  },
+  {
+    "image": "/data/upload/Kids_29.jpg",
+    "id": 12,
+    "Type": "Kids",
+    "Clothes": "Dress",
+    "Color": "Pink",
+    "annotator": "faizal.abdul.tif420@polban.ac.id",
+    "annotation_id": 21
+  },
+  {
+    "image": "/data/upload/Kids_30.jpg",
+    "id": 13,
+    "Type": "Kids",
+    "Clothes": "T-Shirt",
+    "Color": "Blue",
+    "annotator": "faizal.abdul.tif420@polban.ac.id",
+    "annotation_id": 22
+  },
+  {
+    "image": "/data/upload/Kids_31.jpg",
+    "id": 14,
+    "Type": "Kids",
+    "Clothes": "Jacket",
+    "Pants": "Jeans",
+    "Footwear": "Sneaker",
+    "Color": {
+      "choices": [
+        "Blue",
+        "Red",
+        "Green"
+      ]
+    },
+    "annotator": "faizal.abdul.tif420@polban.ac.id",
+    "annotation_id": 23
+  },
+  {
+    "image": "/data/upload/Kids_33.jpg",
+    "id": 15,
+    "Type": "Kids",
+    "Clothes": "T-Shirt",
+    "Color": "White",
+    "annotator": "faizal.abdul.tif420@polban.ac.id",
+    "annotation_id": 24
+  },
+  {
+    "image": "/data/upload/Kids_34.jpg",
+    "id": 16,
+    "Type": "Kids",
+    "Clothes": "Dress",
+    "Accecories": "Eye Glasses",
+    "Color": "Blue",
+    "annotator": "faizal.abdul.tif420@polban.ac.id",
+    "annotation_id": 25
+  },
+  {
+    "image": "/data/upload/Kids_35.jpg",
+    "id": 17,
+    "Type": "Kids",
+    "Clothes": "T-Shirt",
+    "Pants": "Corduroy",
+    "Accecories": "Beanie",
+    "Color": {
+      "choices": [
+        "White",
+        "Blue"
+      ]
+    },
+    "annotator": "faizal.abdul.tif420@polban.ac.id",
+    "annotation_id": 26
+  },
+  {
+    "image": "/data/upload/Kids_37.jpg",
+    "id": 18,
+    "Type": "Kids",
+    "Clothes": "T-Shirt",
+    "Pants": "Training",
+    "Footwear": "Sneaker",
+    "Color": "White",
+    "annotator": "faizal.abdul.tif420@polban.ac.id",
+    "annotation_id": 27
+  },
+  {
+    "image": "/data/upload/Kids_42.jpg",
+    "id": 19,
+    "Type": "Kids",
+    "Clothes": "T-Shirt",
+    "Pants": "Training",
+    "Color": {
+      "choices": [
+        "White",
+        "Brown"
+      ]
+    },
+    "annotator": "faizal.abdul.tif420@polban.ac.id",
+    "annotation_id": 28
+  },
+  {
+    "image": "/data/upload/Kids_1.jpg",
+    "id": 1,
+    "Type": "Kids",
+    "Clothes": {
+      "choices": [
+        "Shirt",
+        "Dress"
+      ]
+    },
+    "Pants": "Training",
+    "Footwear": {
+      "choices": [
+        "Sneaker",
+        "Slipper"
+      ]
+    },
+    "Color": {
+      "choices": [
+        "Black",
+        "White"
+      ]
+    },
+    "annotator": "faizal.abdul.tif420@polban.ac.id",
+    "annotation_id": 10
+  },
+  {
+    "image": "/data/upload/Kids_5.jpg",
+    "id": 2,
+    "Type": "Kids",
+    "Clothes": "T-Shirt",
+    "Pants": "Short",
+    "Footwear": "Slipper",
+    "Color": {
+      "choices": [
+        "Blue",
+        "Green",
+        "Yellow"
+      ]
+    },
+    "annotator": "faizal.abdul.tif420@polban.ac.id",
+    "annotation_id": 11
+  },
+  {
+    "image": "/data/upload/Kids_7.jpg",
+    "id": 3,
+    "Type": "Kids",
+    "Clothes": "Dress",
+    "Footwear": "Slipper",
+    "Color": "Red",
+    "annotator": "faizal.abdul.tif420@polban.ac.id",
+    "annotation_id": 12
+  }
+]

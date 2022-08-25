@@ -1,0 +1,367 @@
+[
+  {
+    "image": "/data/upload/9abea8-pexels-photo-242829.jpeg",
+    "id": 8,
+    "Type": "Male",
+    "Clothes": {
+      "choices": [
+        "T-Shirt",
+        "Jacket"
+      ]
+    },
+    "Pants": "Jeans",
+    "Accecories": "Eye Glasses",
+    "Color": {
+      "choices": [
+        "Black",
+        "White",
+        "Blue"
+      ]
+    }
+  },
+  {
+    "image": "/data/upload/ad446e-pexels-photo-3662357.jpeg",
+    "id": 16,
+    "Type": "Male",
+    "Clothes": "T-Shirt",
+    "Pants": "Jeans",
+    "Accecories": {
+      "choices": [
+        "Necklace",
+        "Wrist",
+        "Watch"
+      ]
+    },
+    "Color": "Black"
+  },
+  {
+    "image": "/data/upload/d970b4-pexels-photo-8106203.jpeg",
+    "id": 18,
+    "Type": "Male",
+    "Clothes": {
+      "choices": [
+        "T-Shirt",
+        "Suit"
+      ]
+    },
+    "Pants": "Kulot",
+    "Accecories": {
+      "choices": [
+        "Hat",
+        "Eye Glasses"
+      ]
+    },
+    "Footwear": "Leather",
+    "Color": {
+      "choices": [
+        "Black",
+        "White"
+      ]
+    }
+  },
+  {
+    "image": "/data/upload/76627d-pexels-photo-775358.jpeg",
+    "id": 10,
+    "Type": "Male",
+    "Clothes": {
+      "choices": [
+        "T-Shirt",
+        "Jacket"
+      ]
+    },
+    "Pants": "Cargo",
+    "Accecories": "Wrist",
+    "Color": {
+      "choices": [
+        "White",
+        "Brown"
+      ]
+    }
+  },
+  {
+    "image": "/data/upload/dbddb3-Male_50.jpg",
+    "id": 3,
+    "Type": "Male",
+    "Clothes": {
+      "choices": [
+        "T-Shirt",
+        "Shirt"
+      ]
+    },
+    "Pants": "Jeans",
+    "Accecories": "Wrist",
+    "Color": {
+      "choices": [
+        "White",
+        "Blue",
+        "Red",
+        "Green"
+      ]
+    }
+  },
+  {
+    "image": "/data/upload/48f6f0-pexels-photo-8107163.jpeg",
+    "id": 19,
+    "Type": "Male",
+    "Clothes": {
+      "choices": [
+        "T-Shirt",
+        "Shirt"
+      ]
+    },
+    "Pants": "Corduroy",
+    "Accecories": "Cap",
+    "Footwear": "Slipper",
+    "Color": {
+      "choices": [
+        "White",
+        "Brown"
+      ]
+    }
+  },
+  {
+    "image": "/data/upload/849e29-Male_51.jpg",
+    "id": 4,
+    "Type": "Male",
+    "Clothes": "Hoodie",
+    "Accecories": {
+      "choices": [
+        "Eye Glasses",
+        "Watch"
+      ]
+    },
+    "Color": "Green"
+  },
+  {
+    "image": "/data/upload/43dd62-pexels-photo-3622614.jpeg",
+    "id": 15,
+    "Type": "Male",
+    "Clothes": "Sweater",
+    "Pants": "Training",
+    "Accecories": {
+      "choices": [
+        "Eye Glasses",
+        "Watch"
+      ]
+    },
+    "Footwear": "Sneaker",
+    "Color": {
+      "choices": [
+        "White",
+        "Yellow"
+      ]
+    }
+  },
+  {
+    "image": "/data/upload/4f0289-pexels-photo-3705262.jpeg",
+    "id": 17,
+    "Type": "Male",
+    "Clothes": {
+      "choices": [
+        "T-Shirt",
+        "Shirt"
+      ]
+    },
+    "Pants": "Jeans",
+    "Accecories": "Necklace",
+    "Color": {
+      "choices": [
+        "Black",
+        "White",
+        "Green"
+      ]
+    }
+  },
+  {
+    "image": "/data/upload/d722e9-pexels-photo-532220.jpeg",
+    "id": 9,
+    "Type": "Male",
+    "Clothes": {
+      "choices": [
+        "Shirt",
+        "Suit"
+      ]
+    },
+    "Pants": "Kulot",
+    "Color": {
+      "choices": [
+        "Black",
+        "White"
+      ]
+    }
+  },
+  {
+    "image": "/data/upload/84e51c-male.jpg",
+    "id": 6,
+    "Type": "Male",
+    "Clothes": "Hoodie",
+    "Pants": "Jogger",
+    "Accecories": {
+      "choices": [
+        "Eye Glasses",
+        "Watch"
+      ]
+    },
+    "Color": {
+      "choices": [
+        "Black",
+        "Yellow"
+      ]
+    }
+  },
+  {
+    "image": "/data/upload/d06893-pexels-photo-878358.jpeg",
+    "id": 11,
+    "Type": "Male",
+    "Clothes": "Sweater",
+    "Pants": "Jeans",
+    "Accecories": "Eye Glasses",
+    "Footwear": "Leather",
+    "Color": {
+      "choices": [
+        "Black",
+        "White",
+        "Orange"
+      ]
+    }
+  },
+  {
+    "image": "/data/upload/d6fa2f-download.jfif",
+    "id": 0,
+    "Type": "Male",
+    "Pants": "Jeans",
+    "Clothes": "Hoodie",
+    "Accecories": "Eye Glasses",
+    "Footwear": "Sneaker",
+    "Color": {
+      "choices": [
+        "White",
+        "Blue",
+        "Red"
+      ]
+    }
+  },
+  {
+    "image": "/data/upload/c77199-fashion-men-s-individuality-black-and-white-157675.jpeg",
+    "id": 1,
+    "Type": "Male",
+    "Clothes": {
+      "choices": [
+        "T-Shirt",
+        "Robe"
+      ]
+    },
+    "Accecories": "Hat",
+    "Pants": "Jeans",
+    "Color": "Black"
+  },
+  {
+    "image": "/data/upload/338b0b-malee.jpg",
+    "id": 7,
+    "Clothes": {
+      "choices": [
+        "T-Shirt",
+        "Suit"
+      ]
+    },
+    "Type": "Male",
+    "Accecories": "Hat",
+    "Color": {
+      "choices": [
+        "Black",
+        "Grey"
+      ]
+    }
+  },
+  {
+    "image": "/data/upload/96f193-pexels-photo-1018911.jpeg",
+    "id": 12,
+    "Type": "Male",
+    "Clothes": "T-Shirt",
+    "Pants": "Jeans",
+    "Accecories": {
+      "choices": [
+        "Eye Glasses",
+        "Wrist"
+      ]
+    },
+    "Footwear": "Sneaker",
+    "Color": {
+      "choices": [
+        "Blue",
+        "Yellow"
+      ]
+    }
+  },
+  {
+    "image": "/data/upload/de0d4c-Male_47.jpg",
+    "id": 2,
+    "Type": "Male",
+    "Clothes": "Sweater",
+    "Pants": "Jeans",
+    "Accecories": "Watch",
+    "Color": {
+      "choices": [
+        "Black",
+        "Red"
+      ]
+    }
+  },
+  {
+    "image": "/data/upload/be6b63-pexels-photo-1192601.jpeg",
+    "id": 13,
+    "Type": "Male",
+    "Clothes": {
+      "choices": [
+        "T-Shirt",
+        "Jacket"
+      ]
+    },
+    "Accecories": "Cap",
+    "Color": {
+      "choices": [
+        "Black",
+        "White"
+      ]
+    }
+  },
+  {
+    "image": "/data/upload/269378-pexels-photo-3317133.jpeg",
+    "id": 14,
+    "Type": "Male",
+    "Clothes": {
+      "choices": [
+        "T-Shirt",
+        "Jacket"
+      ]
+    },
+    "Pants": "Kulot",
+    "Accecories": "Eye Glasses",
+    "Color": {
+      "choices": [
+        "Black",
+        "Grey",
+        "Green"
+      ]
+    }
+  },
+  {
+    "image": "/data/upload/14f757-Male_57.jpg",
+    "id": 5,
+    "Type": "Male",
+    "Clothes": "Tuxedo",
+    "Accecories": {
+      "choices": [
+        "Eye Glasses",
+        "Watch"
+      ]
+    },
+    "Footwear": "Leather",
+    "Color": {
+      "choices": [
+        "White",
+        "Blue"
+      ]
+    }
+  }
+]

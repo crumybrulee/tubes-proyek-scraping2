@@ -1,0 +1,1502 @@
+[
+  {
+    "image": "data/upload/Female_16.jpg",
+    "id": 8,
+    "Clothes": "Suit",
+    "Accecories": "Belt",
+    "Footwear": "Heels",
+    "Color": "Red"
+  },
+  {
+    "image": "data/upload/Female_26.jpg",
+    "id": 16,
+    "Type": "Female",
+    "Clothes": "Dress",
+    "Pants": "Skirt",
+    "Accecories": {
+      "choices": [
+        "Eye Glasses",
+        "Watch"
+      ]
+    },
+    "Color": {
+      "choices": [
+        "White",
+        "Pink"
+      ]
+    }
+  },
+  {
+    "image": "data/upload/Female_29.jpg",
+    "id": 18,
+    "Type": "Female",
+    "Clothes": "Shirt",
+    "Pants": "Skirt",
+    "Footwear": "Heels",
+    "Color": {
+      "choices": [
+        "Blue",
+        "Yellow"
+      ]
+    }
+  },
+  {
+    "image": "data/upload/Female_18.jpg",
+    "id": 10,
+    "Type": "Female",
+    "Clothes": "T-Shirt",
+    "Pants": "Jeans",
+    "Footwear": "Heels",
+    "Accecories": "Eye Glasses",
+    "Color": {
+      "choices": [
+        "Brown",
+        "Blue"
+      ]
+    }
+  },
+  {
+    "image": "data/upload/Female_4.jpg",
+    "id": 3,
+    "Type": "Female",
+    "Clothes": {
+      "choices": [
+        "Shirt",
+        "Jacket"
+      ]
+    },
+    "Accecories": "Eye Glasses",
+    "Color": {
+      "choices": [
+        "Black",
+        "White"
+      ]
+    }
+  },
+  {
+    "image": "data/upload/Female_31.jpg",
+    "id": 19,
+    "Type": "Female",
+    "Clothes": {
+      "choices": [
+        "T-Shirt",
+        "Jacket"
+      ]
+    },
+    "Pants": "Jogger",
+    "Accecories": "Eye Glasses",
+    "Color": "Red"
+  },
+  {
+    "image": "data/upload/Female_6.jpg",
+    "id": 4,
+    "Clothes": {
+      "choices": [
+        "T-Shirt",
+        "Jacket"
+      ]
+    },
+    "Type": "Female",
+    "Pants": "Skirt",
+    "Accecories": {
+      "choices": [
+        "Cap",
+        "Hat"
+      ]
+    },
+    "Color": {
+      "choices": [
+        "Blue",
+        "Pink"
+      ]
+    }
+  },
+  {
+    "image": "data/upload/Female_25.jpg",
+    "id": 15,
+    "Color": {
+      "choices": [
+        "White",
+        "Green"
+      ]
+    },
+    "Type": "Female",
+    "Clothes": "Shirt",
+    "Pants": "Skirt",
+    "Accecories": {
+      "choices": [
+        "Hat",
+        "Eye Glasses"
+      ]
+    }
+  },
+  {
+    "image": "data/upload/Female_27.jpg",
+    "id": 17,
+    "Pants": "Kulot",
+    "Clothes": "T-Shirt",
+    "Type": "Female",
+    "Accecories": {
+      "choices": [
+        "Hat",
+        "Veil",
+        "Belt"
+      ]
+    },
+    "Footwear": "Sneaker",
+    "Color": {
+      "choices": [
+        "Black",
+        "Brown"
+      ]
+    }
+  },
+  {
+    "image": "data/upload/Female_17.jpg",
+    "id": 9,
+    "Type": "Female",
+    "Clothes": "T-Shirt",
+    "Pants": "Skirt",
+    "Accecories": {
+      "choices": [
+        "Hat",
+        "Eye Glasses"
+      ]
+    },
+    "Footwear": "Sneaker",
+    "Color": {
+      "choices": [
+        "White",
+        "Yellow"
+      ]
+    }
+  },
+  {
+    "image": "data/upload/Female_11.jpg",
+    "id": 6,
+    "Type": "Female",
+    "Clothes": "Dress",
+    "Footwear": "Heels",
+    "Color": {
+      "choices": [
+        "Black",
+        "White"
+      ]
+    }
+  },
+  {
+    "image": "data/upload/Female_19.jpg",
+    "id": 11,
+    "Type": "Female",
+    "Clothes": "Dress",
+    "Pants": "Skirt",
+    "Accecories": "Belt",
+    "Color": {
+      "choices": [
+        "Yellow",
+        "Purple"
+      ]
+    }
+  },
+  {
+    "image": "data/upload/Female_1.jpg",
+    "id": 0,
+    "Type": "Female",
+    "Clothes": "Shirt",
+    "Pants": "Skirt",
+    "Accecories": "Eye Glasses",
+    "Color": {
+      "choices": [
+        "White",
+        "Brown"
+      ]
+    }
+  },
+  {
+    "image": "data/upload/Female_2.jpg",
+    "id": 1,
+    "Type": "Female",
+    "Clothes": {
+      "choices": [
+        "Shirt",
+        "Jacket"
+      ]
+    },
+    "Pants": "Skirt",
+    "Footwear": "Sneaker",
+    "Accecories": "Eye Glasses",
+    "Color": {
+      "choices": [
+        "Black",
+        "White",
+        "Yellow"
+      ]
+    }
+  },
+  {
+    "image": "data/upload/Female_12.jpg",
+    "id": 7,
+    "Clothes": "Shirt",
+    "Type": "Female",
+    "Accecories": "Hat",
+    "Color": "Black"
+  },
+  {
+    "image": "data/upload/Female_22.jpg",
+    "id": 12,
+    "Type": "Female",
+    "Clothes": "Shirt",
+    "Pants": "Jeans",
+    "Footwear": "Sneaker",
+    "Color": {
+      "choices": [
+        "Black",
+        "Blue"
+      ]
+    }
+  },
+  {
+    "image": "data/upload/Female_3.jpg",
+    "id": 2,
+    "Type": "Female",
+    "Clothes": "Sweater",
+    "Accecories": "Watch",
+    "Color": "White"
+  },
+  {
+    "image": "data/upload/Female_23.jpg",
+    "id": 13,
+    "Type": "Female",
+    "Clothes": "Dress",
+    "Accecories": "Watch",
+    "Color": "White",
+    "Pants": "Skirt"
+  },
+  {
+    "image": "data/upload/Female_24.jpg",
+    "id": 14,
+    "Type": "Female",
+    "Clothes": "Shirt",
+    "Pants": "Jeans",
+    "Color": {
+      "choices": [
+        "Brown",
+        "Blue"
+      ]
+    }
+  },
+  {
+    "image": "data/upload/Female_7.jpg",
+    "id": 5,
+    "Type": "Female",
+    "Clothes": {
+      "choices": [
+        "Jacket",
+        "Dress"
+      ]
+    },
+    "Pants": "Skirt",
+    "Color": {
+      "choices": [
+        "Black",
+        "Red"
+      ]
+    }
+  },
+  {
+    "image": "data/upload/Kids_12.jpg",
+    "id": 4,
+    "Type": "Kids",
+    "Clothes": {
+      "choices": [
+        "T-Shirt",
+        "Overall"
+      ]
+    },
+    "Pants": "Short",
+    "Footwear": "Sneaker",
+    "Color": {
+      "choices": [
+        "Blue",
+        "Red"
+      ]
+    },
+    "annotator": "faizal.abdul.tif420@polban.ac.id",
+    "annotation_id": 13
+  },
+  {
+    "image": "data/upload/Kids_44.jpg",
+    "id": 20,
+    "Type" :"Kids",
+    "Clothes": {
+      "choices": [
+        "Jacket",
+        "Overall"
+      ]
+    },
+    "Pants": "Short",
+    "Accecories": "Watch",
+    "Color": {
+      "choices": [
+        "Blue",
+        "Yellow"
+      ]
+    },
+    "annotator": "faizal.abdul.tif420@polban.ac.id",
+    "annotation_id": 29
+  },
+  {
+    "image": "data/upload/Kids_17.jpg",
+    "id": 5,
+    "Type": "Kids",
+    "Clothes": "Jacket",
+    "Pants": "Jeans",
+    "Footwear": "Sneaker",
+    "Color": {
+      "choices": [
+        "Blue",
+        "Red",
+        "Green"
+      ]
+    },
+    "annotator": "faizal.abdul.tif420@polban.ac.id",
+    "annotation_id": 14
+  },
+  {
+    "image": "data/upload/Kids_18.jpg",
+    "id": 6,
+    "Clothes": "Cardigan",
+    "Type": "Kids",
+    "Pants": "Jeans",
+    "Accecories": {
+      "choices": [
+        "Hat",
+        "Scarf"
+      ]
+    },
+    "Footwear": "Slipper",
+    "Color": {
+      "choices": [
+        "White",
+        "Blue",
+        "Green"
+      ]
+    },
+    "annotator": "faizal.abdul.tif420@polban.ac.id",
+    "annotation_id": 15
+  },
+  {
+    "image": "data/upload/Kids_19.jpg",
+    "id": 7,
+    "Type": "Kids",
+    "Clothes": "Vest",
+    "Accecories": "Hat",
+    "Color": {
+      "choices": [
+        "Blue",
+        "Yellow"
+      ]
+    },
+    "annotator": "faizal.abdul.tif420@polban.ac.id",
+    "annotation_id": 16
+  },
+  {
+    "image": "data/upload/Kids_21.jpg",
+    "id": 8,
+    "Type" :"Kids",
+    "Clothes": "T-Shirt",
+    "Pants": "Short",
+    "Footwear": "Slipper",
+    "Color": "White",
+    "annotator": "faizal.abdul.tif420@polban.ac.id",
+    "annotation_id": 17
+  },
+  {
+    "image": "data/upload/Kids_22.jpg",
+    "id": 9,
+    "Clothes": "T-Shirt",
+    "Type": "Kids",
+    "Pants": "Jeans",
+    "Color": {
+      "choices": [
+        "White",
+        "Blue"
+      ]
+    },
+    "annotator": "faizal.abdul.tif420@polban.ac.id",
+    "annotation_id": 18
+  },
+  {
+    "image": "data/upload/Kids_23.jpg",
+    "id": 10,
+    "Type": "Kids",
+    "Clothes": "T-Shirt",
+    "Pants": "Jeans",
+    "Color": {
+      "choices": [
+        "White",
+        "Blue"
+      ]
+    },
+    "annotator": "faizal.abdul.tif420@polban.ac.id",
+    "annotation_id": 19
+  },
+  {
+    "image": "data/upload/Kids_28.jpg",
+    "id": 11,
+    "Type": "Kids",
+    "Clothes": "T-Shirt",
+    "Accecories": "Hat",
+    "Color": "White",
+    "annotator": "faizal.abdul.tif420@polban.ac.id",
+    "annotation_id": 20
+  },
+  {
+    "image": "data/upload/Kids_29.jpg",
+    "id": 12,
+    "Type": "Kids",
+    "Clothes": "Dress",
+    "Color": "Pink",
+    "annotator": "faizal.abdul.tif420@polban.ac.id",
+    "annotation_id": 21
+  },
+  {
+    "image": "data/upload/Kids_30.jpg",
+    "id": 13,
+    "Type": "Kids",
+    "Clothes": "T-Shirt",
+    "Color": "Blue",
+    "annotator": "faizal.abdul.tif420@polban.ac.id",
+    "annotation_id": 22
+  },
+  {
+    "image": "data/upload/Kids_31.jpg",
+    "id": 14,
+    "Type": "Kids",
+    "Clothes": "Jacket",
+    "Pants": "Jeans",
+    "Footwear": "Sneaker",
+    "Color": {
+      "choices": [
+        "Blue",
+        "Red"
+      ]
+    },
+    "annotator": "faizal.abdul.tif420@polban.ac.id",
+    "annotation_id": 23
+  },
+  {
+    "image": "data/upload/Kids_33.jpg",
+    "id": 15,
+    "Type": "Kids",
+    "Clothes": "T-Shirt",
+    "Color": "White",
+    "annotator": "faizal.abdul.tif420@polban.ac.id",
+    "annotation_id": 24
+  },
+  {
+    "image": "data/upload/Kids_34.jpg",
+    "id": 16,
+    "Type": "Kids",
+    "Clothes": "Dress",
+    "Accecories": "Eye Glasses",
+    "Color": "Blue",
+    "annotator": "faizal.abdul.tif420@polban.ac.id",
+    "annotation_id": 25
+  },
+  {
+    "image": "data/upload/Kids_35.jpg",
+    "id": 17,
+    "Type": "Kids",
+    "Clothes": "T-Shirt",
+    "Pants": "Corduroy",
+    "Accecories": "Beanie",
+    "Color": {
+      "choices": [
+        "White",
+        "Blue"
+      ]
+    },
+    "annotator": "faizal.abdul.tif420@polban.ac.id",
+    "annotation_id": 26
+  },
+  {
+    "image": "data/upload/Kids_37.jpg",
+    "id": 18,
+    "Type": "Kids",
+    "Clothes": "T-Shirt",
+    "Pants": "Training",
+    "Footwear": "Sneaker",
+    "Color": "White",
+    "annotator": "faizal.abdul.tif420@polban.ac.id",
+    "annotation_id": 27
+  },
+  {
+    "image": "data/upload/Kids_42.jpg",
+    "id": 19,
+    "Type": "Kids",
+    "Clothes": "T-Shirt",
+    "Pants": "Training",
+    "Color": {
+      "choices": [
+        "White",
+        "Brown"
+      ]
+    },
+    "annotator": "faizal.abdul.tif420@polban.ac.id",
+    "annotation_id": 28
+  },
+  {
+    "image": "data/upload/Kids_1.jpg",
+    "id": 1,
+    "Type": "Kids",
+    "Clothes": {
+      "choices": [
+        "Shirt",
+        "Dress"
+      ]
+    },
+    "Pants": "Training",
+    "Footwear": {
+      "choices": [
+        "Sneaker",
+        "Slipper"
+      ]
+    },
+    "Color": {
+      "choices": [
+        "Black",
+        "White"
+      ]
+    },
+    "annotator": "faizal.abdul.tif420@polban.ac.id",
+    "annotation_id": 10
+  },
+  {
+    "image": "data/upload/Kids_5.jpg",
+    "id": 2,
+    "Type": "Kids",
+    "Clothes": "T-Shirt",
+    "Pants": "Short",
+    "Footwear": "Slipper",
+    "Color": {
+      "choices": [
+        "Blue",
+        "Green",
+        "Yellow"
+      ]
+    },
+    "annotator": "faizal.abdul.tif420@polban.ac.id",
+    "annotation_id": 11
+  },
+  {
+    "image": "data/upload/Kids_7.jpg",
+    "id": 3,
+    "Type": "Kids",
+    "Clothes": "Dress",
+    "Footwear": "Slipper",
+    "Color": "Red",
+    "annotator": "faizal.abdul.tif420@polban.ac.id",
+    "annotation_id": 12
+  },
+  {
+    "image": "data/upload/Female_47.jpg",
+    "id": 8,
+    "Type": "Female",
+    "Clothes": {
+      "choices": [
+        "T-Shirt",
+        "Jacket"
+      ]
+    },
+    "Accecories": "Eye Glasses",
+    "Color": {
+      "choices": [
+        "Blue",
+        "Orange"
+      ]
+    }
+  },
+  {
+    "image": "data/upload/Kids_45.jpg",
+    "id": 21,
+    "Type": "Kids",
+    "Clothes": "Sweater",
+    "Pants": "Jeans",
+    "Accecories": "Hat",
+    "Footwear": "Sneaker",
+    "Color": {
+      "choices": [
+        "White",
+        "Blue",
+        "Red"
+      ]
+    }
+  },
+  {
+    "image": "data/upload/pexels-photo-3679044.jpeg",
+    "id": 27,
+    "Type": "Female",
+    "Clothes": "T-Shirt",
+    "Pants": "Cargo",
+    "Accecories": "Necklace",
+    "Footwear": "Sneaker",
+    "Color": {
+      "choices": [
+        "Black",
+        "Green"
+      ]
+    }
+  },
+  {
+    "image": "data/upload/Female_50.jpg",
+    "id": 10,
+    "Type": "Female",
+    "Clothes": "Shirt",
+    "Pants": "Corduroy",
+    "Color": "White"
+  },
+  {
+    "image": "data/upload/Kids_49.jpg",
+    "id": 23,
+    "Type": {
+      "choices": [
+        "Female",
+        "Kids"
+      ]
+    },
+    "Clothes": "Dress",
+    "Pants": {
+      "choices": [
+        "Skirt",
+        "Corduroy"
+      ]
+    },
+    "Accecories": "Veil",
+    "Footwear": "Sneaker",
+    "Color": {
+      "choices": [
+        "White",
+        "Brown"
+      ]
+    }
+  },
+  {
+    "image": "data/upload/Female_32.jpg",
+    "id": 3,
+    "Type": "Female",
+    "Clothes": "Shirt",
+    "Color": {
+      "choices": [
+        "White",
+        "Blue"
+      ]
+    }
+  },
+  {
+    "image": "data/upload/Female_51.jpg",
+    "id": 19,
+    "Clothes": "T-Shirt",
+    "Type": "Female",
+    "Pants": "Jeans",
+    "Accecories": "Eye Glasses",
+    "Color": {
+      "choices": [
+        "Grey",
+        "Blue"
+      ]
+    }
+  },
+  {
+    "image": "data/upload/Female_33.jpg",
+    "id": 4,
+    "Type": "Female",
+    "Clothes": "Dress",
+    "Color": "White"
+  },
+  {
+    "image": "data/upload/Kids_47.jpg",
+    "id": 22,
+    "Type": "Kids",
+    "Clothes": "Dress",
+    "Pants": "Skirt",
+    "Color": "White"
+  },
+  {
+    "image": "data/upload/Female_48.jpg",
+    "id": 9,
+    "Type": "Female",
+    "Clothes": "Dress",
+    "Pants": "Corduroy",
+    "Accecories": "Veil",
+    "Footwear": "Sneaker",
+    "Color": {
+      "choices": [
+        "Grey",
+        "Blue"
+      ]
+    }
+  },
+  {
+    "image": "data/upload/Female_43.jpg",
+    "id": 6,
+    "Type": "Female",
+    "Clothes": "Hoodie",
+    "Pants": {
+      "choices": [
+        "Jeans",
+        "Short"
+      ]
+    },
+    "Color": {
+      "choices": [
+        "Grey",
+        "Blue"
+      ]
+    }
+  },
+  {
+    "image": "data/upload/Female_8.jpg",
+    "id": 0,
+    "Type": "Female",
+    "Clothes": "Dress",
+    "Pants": {
+      "choices": [
+        "Short",
+        "Skirt"
+      ]
+    },
+    "Footwear": "Slipper",
+    "Color": "White"
+  },
+  {
+    "image": "data/upload/Female_20.jpg",
+    "id": 1,
+    "Type": "Female",
+    "Clothes": "Jacket",
+    "Accecories": "Hat",
+    "Color": "Black"
+  },
+  {
+    "image": "data/upload/Female_44.jpg",
+    "id": 7,
+    "Type": "Female",
+    "Clothes": "Dress",
+    "Pants": "Skirt",
+    "Color": "White"
+  },
+  {
+    "image": "data/upload/Kids_50.jpg",
+    "id": 24,
+    "Type": "Kids",
+    "Clothes": {
+      "choices": [
+        "Shirt",
+        "Dress"
+      ]
+    },
+    "Pants": "Corduroy",
+    "Accecories": "Necklace",
+    "Footwear": "Sneaker",
+    "Color": {
+      "choices": [
+        "White",
+        "Purple"
+      ]
+    }
+  },
+  {
+    "image": "data/upload/Female_52.jpg",
+    "id": 20,
+    "Type": "Female",
+    "Clothes": "Dress",
+    "Pants": "Skirt",
+    "Color": "White"
+  },
+  {
+    "image": "data/upload/Female_21.jpg",
+    "id": 2,
+    "Type": "Female",
+    "Clothes": "T-Shirt",
+    "Pants": "Training",
+    "Accecories": "Eye Glasses",
+    "Footwear": "Sneaker",
+    "Color": "Black"
+  },
+  {
+    "image": "data/upload/Female_40.jpg",
+    "id": 5,
+    "Type": "Female",
+    "Clothes": "Hoodie",
+    "Pants": "Short",
+    "Color": {
+      "choices": [
+        "Grey",
+        "Blue"
+      ]
+    }
+  },
+  {
+    "image": "data/upload/pexels-photo-975008.jpeg",
+    "id": 26,
+    "Type": "Female",
+    "Clothes": "Shirt",
+    "Pants": "Short",
+    "Accecories": "Eye Glasses",
+    "Footwear": "Leather",
+    "Color": {
+      "choices": [
+        "White",
+        "Red"
+      ]
+    }
+  },
+  {
+    "image": "data/upload/Kids_51.jpg",
+    "id": 25,
+    "Type": "Kids",
+    "Clothes": "Dress",
+    "Color": "Red"
+  },
+  {
+    "image": "data/upload/pexels-photo-242829.jpeg",
+    "id": 8,
+    "Type": "Male",
+    "Clothes": {
+      "choices": [
+        "T-Shirt",
+        "Jacket"
+      ]
+    },
+    "Pants": "Jeans",
+    "Accecories": "Eye Glasses",
+    "Color": {
+      "choices": [
+        "Black",
+        "White",
+        "Blue"
+      ]
+    }
+  },
+  {
+    "image": "data/upload/pexels-photo-3662357.jpeg",
+    "id": 16,
+    "Type": "Male",
+    "Clothes": "T-Shirt",
+    "Pants": "Jeans",
+    "Accecories": {
+      "choices": [
+        "Necklace",
+        "Wrist",
+        "Watch"
+      ]
+    },
+    "Color": "Black"
+  },
+  {
+    "image": "data/upload/pexels-photo-8106203.jpeg",
+    "id": 18,
+    "Type": "Male",
+    "Clothes": {
+      "choices": [
+        "T-Shirt",
+        "Suit"
+      ]
+    },
+    "Pants": "Kulot",
+    "Accecories": {
+      "choices": [
+        "Hat",
+        "Eye Glasses"
+      ]
+    },
+    "Footwear": "Leather",
+    "Color": {
+      "choices": [
+        "Black",
+        "White"
+      ]
+    }
+  },
+  {
+    "image": "data/upload/pexels-photo-775358.jpeg",
+    "id": 10,
+    "Type": "Male",
+    "Clothes": {
+      "choices": [
+        "T-Shirt",
+        "Jacket"
+      ]
+    },
+    "Pants": "Cargo",
+    "Accecories": "Wrist",
+    "Color": {
+      "choices": [
+        "White",
+        "Brown"
+      ]
+    }
+  },
+  {
+    "image": "data/upload/Male_50.jpg",
+    "id": 3,
+    "Type": "Male",
+    "Clothes": {
+      "choices": [
+        "T-Shirt",
+        "Shirt"
+      ]
+    },
+    "Pants": "Jeans",
+    "Accecories": "Wrist",
+    "Color": {
+      "choices": [
+        "White",
+        "Blue",
+        "Red",
+        "Green"
+      ]
+    }
+  },
+  {
+    "image": "data/upload/pexels-photo-8107163.jpeg",
+    "id": 19,
+    "Type": "Male",
+    "Clothes": {
+      "choices": [
+        "T-Shirt",
+        "Shirt"
+      ]
+    },
+    "Pants": "Corduroy",
+    "Accecories": "Cap",
+    "Footwear": "Slipper",
+    "Color": {
+      "choices": [
+        "White",
+        "Brown"
+      ]
+    }
+  },
+  {
+    "image": "data/upload/Male_51.jpg",
+    "id": 4,
+    "Type": "Male",
+    "Clothes": "Hoodie",
+    "Accecories": {
+      "choices": [
+        "Eye Glasses",
+        "Watch"
+      ]
+    },
+    "Color": "Green"
+  },
+  {
+    "image": "data/upload/pexels-photo-3622614.jpeg",
+    "id": 15,
+    "Type": "Male",
+    "Clothes": "Sweater",
+    "Pants": "Training",
+    "Accecories": {
+      "choices": [
+        "Eye Glasses",
+        "Watch"
+      ]
+    },
+    "Footwear": "Sneaker",
+    "Color": {
+      "choices": [
+        "White",
+        "Yellow"
+      ]
+    }
+  },
+  {
+    "image": "data/upload/pexels-photo-3705262.jpeg",
+    "id": 17,
+    "Type": "Male",
+    "Clothes": {
+      "choices": [
+        "T-Shirt",
+        "Shirt"
+      ]
+    },
+    "Pants": "Jeans",
+    "Accecories": "Necklace",
+    "Color": {
+      "choices": [
+        "Black",
+        "White",
+        "Green"
+      ]
+    }
+  },
+  {
+    "image": "data/upload/pexels-photo-532220.jpeg",
+    "id": 9,
+    "Type": "Male",
+    "Clothes": {
+      "choices": [
+        "Shirt",
+        "Suit"
+      ]
+    },
+    "Pants": "Kulot",
+    "Color": {
+      "choices": [
+        "Black",
+        "White"
+      ]
+    }
+  },
+  {
+    "image": "data/upload/male.jpg",
+    "id": 6,
+    "Type": "Male",
+    "Clothes": "Hoodie",
+    "Pants": "Jogger",
+    "Accecories": {
+      "choices": [
+        "Eye Glasses",
+        "Watch"
+      ]
+    },
+    "Color": {
+      "choices": [
+        "Black",
+        "Yellow"
+      ]
+    }
+  },
+  {
+    "image": "data/upload/pexels-photo-878358.jpeg",
+    "id": 11,
+    "Type": "Male",
+    "Clothes": "Sweater",
+    "Pants": "Jeans",
+    "Accecories": "Eye Glasses",
+    "Footwear": "Leather",
+    "Color": {
+      "choices": [
+        "Black",
+        "White",
+        "Orange"
+      ]
+    }
+  },
+  {
+    "image": "data/upload/download.jfif",
+    "id": 0,
+    "Type": "Male",
+    "Pants": "Jeans",
+    "Clothes": "Hoodie",
+    "Accecories": "Eye Glasses",
+    "Footwear": "Sneaker",
+    "Color": {
+      "choices": [
+        "White",
+        "Blue",
+        "Red"
+      ]
+    }
+  },
+  {
+    "image": "data/upload/fashion-men-s-individuality-black-and-white-157675.jpeg",
+    "id": 1,
+    "Type": "Male",
+    "Clothes": {
+      "choices": [
+        "T-Shirt",
+        "Robe"
+      ]
+    },
+    "Accecories": "Hat",
+    "Pants": "Jeans",
+    "Color": "Black"
+  },
+  {
+    "image": "data/upload/malee.jpg",
+    "id": 7,
+    "Clothes": {
+      "choices": [
+        "T-Shirt",
+        "Suit"
+      ]
+    },
+    "Type": "Male",
+    "Accecories": "Hat",
+    "Color": {
+      "choices": [
+        "Black",
+        "Grey"
+      ]
+    }
+  },
+  {
+    "image": "data/upload/pexels-photo-1018911.jpeg",
+    "id": 12,
+    "Type": "Male",
+    "Clothes": "T-Shirt",
+    "Pants": "Jeans",
+    "Accecories": {
+      "choices": [
+        "Eye Glasses",
+        "Wrist"
+      ]
+    },
+    "Footwear": "Sneaker",
+    "Color": {
+      "choices": [
+        "Blue",
+        "Yellow"
+      ]
+    }
+  },
+  {
+    "image": "data/upload/Male_47.jpg",
+    "id": 2,
+    "Type": "Male",
+    "Clothes": "Sweater",
+    "Pants": "Jeans",
+    "Accecories": "Watch",
+    "Color": {
+      "choices": [
+        "Black",
+        "Red"
+      ]
+    }
+  },
+  {
+    "image": "data/upload/pexels-photo-1192601.jpeg",
+    "id": 13,
+    "Type": "Male",
+    "Clothes": {
+      "choices": [
+        "T-Shirt",
+        "Jacket"
+      ]
+    },
+    "Accecories": "Cap",
+    "Color": {
+      "choices": [
+        "Black",
+        "White"
+      ]
+    }
+  },
+  {
+    "image": "data/upload/pexels-photo-3317133.jpeg",
+    "id": 14,
+    "Type": "Male",
+    "Clothes": {
+      "choices": [
+        "T-Shirt",
+        "Jacket"
+      ]
+    },
+    "Pants": "Kulot",
+    "Accecories": "Eye Glasses",
+    "Color": {
+      "choices": [
+        "Black",
+        "Grey",
+        "Green"
+      ]
+    }
+  },
+  {
+    "image": "data/upload/Male_57.jpg",
+    "id": 5,
+    "Type": "Male",
+    "Clothes": "Tuxedo",
+    "Accecories": {
+      "choices": [
+        "Eye Glasses",
+        "Watch"
+      ]
+    },
+    "Footwear": "Leather",
+    "Color": {
+      "choices": [
+        "White",
+        "Blue"
+      ]
+    }
+  },
+  {
+    "image": "data/upload/Male_7.jpg",
+    "id": 8,
+    "Type": "Male",
+    "Clothes": {
+      "choices": [
+        "Sweater",
+        "Suit"
+      ]
+    },
+    "Pants": "Jeans",
+    "Accecories": "Watch",
+    "Color": "Black"
+  },
+  {
+    "image": "data/upload/Male_46.jpg",
+    "id": 16,
+    "Clothes": "Tuxedo",
+    "Accecories": "Watch",
+    "Color": {
+      "choices": [
+        "Black",
+        "White",
+        "Blue"
+      ]
+    }
+  },
+  {
+    "image": "data/upload/pexels-photo-3152225.jpeg",
+    "id": 18,
+    "Clothes": {
+      "choices": [
+        "T-Shirt",
+        "Shirt"
+      ]
+    },
+    "Type": "Male",
+    "Pants": "Jeans",
+    "Accecories": "Eye Glasses",
+    "Color": {
+      "choices": [
+        "Black",
+        "White",
+        "Blue"
+      ]
+    }
+  },
+  {
+    "image": "data/upload/Male_31.jpg",
+    "id": 10,
+    "Clothes": {
+      "choices": [
+        "Sweater",
+        "Tuxedo",
+        "Robe"
+      ]
+    },
+    "Color": "Black",
+    "Accecories": "Eye Glasses",
+    "Type": "Male"
+  },
+  {
+    "image": "data/upload/Kids_58.jpg",
+    "id": 3,
+    "Type": {
+      "choices": [
+        "Male",
+        "Kids"
+      ]
+    },
+    "Clothes": {
+      "choices": [
+        "T-Shirt",
+        "Vest"
+      ]
+    },
+    "Pants": "Jogger",
+    "Footwear": "Sneaker",
+    "Color": {
+      "choices": [
+        "Black",
+        "White",
+        "Grey",
+        "Blue",
+        "Yellow"
+      ]
+    }
+  },
+  {
+    "image": "data/upload/pexels-photo-6626903.jpeg",
+    "id": 19,
+    "Type": "Male",
+    "Clothes": "Sweater",
+    "Pants": "Kulot",
+    "Accecories": "Hat",
+    "Color": {
+      "choices": [
+        "Grey",
+        "Brown"
+      ]
+    }
+  },
+  {
+    "image": "data/upload/Kids_59.jpg",
+    "id": 4,
+    "Type": "Kids",
+    "Clothes": "Dress",
+    "Color": "White"
+  },
+  {
+    "image": "data/upload/Male_39.jpg",
+    "id": 15,
+    "Type": "Male",
+    "Clothes": "Sweater",
+    "Color": "Black"
+  },
+  {
+    "image": "data/upload/Male_48.jpg",
+    "id": 17,
+    "Clothes": {
+      "choices": [
+        "T-Shirt",
+        "Jacket"
+      ]
+    },
+    "Type": "Male",
+    "Pants": "Jeans",
+    "Accecories": "Cap",
+    "Color": {
+      "choices": [
+        "Black",
+        "White",
+        "Blue"
+      ]
+    }
+  },
+  {
+    "image": "data/upload/Male_28.jpg",
+    "id": 9,
+    "Type": "Male",
+    "Clothes": "Shirt",
+    "Pants": "Skirt",
+    "Accecories": "Necklace",
+    "Footwear": {
+      "choices": [
+        "Sneaker",
+        "Slipper"
+      ]
+    },
+    "Color": "Black"
+  },
+  {
+    "image": "data/upload/Male_3.jpg",
+    "id": 6,
+    "Clothes": "Shirt",
+    "Type": "Male",
+    "Accecories": "Wrist",
+    "Color": "White"
+  },
+  {
+    "image": "data/upload/Male_33.jpg",
+    "id": 11,
+    "Type": "Male",
+    "Clothes": {
+      "choices": [
+        "T-Shirt",
+        "Shirt"
+      ]
+    },
+    "Pants": "Training",
+    "Accecories": {
+      "choices": [
+        "Necklace",
+        "Wrist",
+        "Watch"
+      ]
+    },
+    "Footwear": "Sneaker",
+    "Color": {
+      "choices": [
+        "Black",
+        "White",
+        "Grey"
+      ]
+    }
+  },
+  {
+    "image": "data/upload/Kids_52.jpg",
+    "id": 0,
+    "Type": "Kids",
+    "Clothes": "Dress",
+    "Accecories": "Hat",
+    "Color": "Blue"
+  },
+  {
+    "image": "data/upload/Kids_53.jpg",
+    "id": 1,
+    "Type": "Kids",
+    "Clothes": "Shirt",
+    "Pants": "Kulot",
+    "Accecories": "Cap",
+    "Color": {
+      "choices": [
+        "White",
+        "Red"
+      ]
+    }
+  },
+  {
+    "image": "data/upload/Male_5.jpg",
+    "id": 7,
+    "Type": "Male",
+    "Clothes": "T-Shirt",
+    "Pants": "Cargo",
+    "Accecories": "Eye Glasses",
+    "Footwear": "Leather",
+    "Color": "Black"
+  },
+  {
+    "image": "data/upload/Male_35.jpg",
+    "id": 12,
+    "Type": "Male",
+    "Clothes": "Tuxedo",
+    "Accecories": "Eye Glasses",
+    "Color": "Black"
+  },
+  {
+    "image": "data/upload/Kids_56.jpg",
+    "id": 2,
+    "Type": "Female",
+    "Clothes": "Sweater",
+    "Pants": "Short",
+    "Color": "Blue"
+  },
+  {
+    "image": "data/upload/Male_36.jpg",
+    "id": 13,
+    "Type": "Male",
+    "Clothes": {
+      "choices": [
+        "Shirt",
+        "Tuxedo"
+      ]
+    },
+    "Pants": "Kulot",
+    "Accecories": "Eye Glasses",
+    "Color": {
+      "choices": [
+        "Black",
+        "Blue"
+      ]
+    }
+  },
+  {
+    "image": "data/upload/Male_38.jpg",
+    "id": 14,
+    "Type": "Male",
+    "Clothes": "Tuxedo",
+    "Pants": "Kulot",
+    "Color": "Red"
+  },
+  {
+    "image": "data/upload/Male_1.jpg",
+    "id": 5,
+    "Clothes": "Hoodie",
+    "Type": "Male",
+    "Pants": "Jeans",
+    "Footwear": "Sneaker",
+    "Accecories": "Eye Glasses",
+    "Color": {
+      "choices": [
+        "White",
+        "Pink"
+      ]
+    }
+  }
+]

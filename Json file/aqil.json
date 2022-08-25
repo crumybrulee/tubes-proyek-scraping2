@@ -1,0 +1,260 @@
+[
+  {
+    "image": "/data/upload/0ff48a-Female_47.jpg",
+    "id": 8,
+    "Type": "Female",
+    "Clothes": {
+      "choices": [
+        "T-Shirt",
+        "Jacket"
+      ]
+    },
+    "Accecories": "Eye Glasses",
+    "Color": {
+      "choices": [
+        "Blue",
+        "Orange"
+      ]
+    }
+  },
+  {
+    "image": "/data/upload/d4eedd-Kids_45.jpg",
+    "id": 21,
+    "Type": "Kids",
+    "Clothes": "Sweater",
+    "Pants": "Jeans",
+    "Accecories": "Hat",
+    "Footwear": "Sneaker",
+    "Color": {
+      "choices": [
+        "White",
+        "Blue"
+      ]
+    }
+  },
+  {
+    "image": "/data/upload/0386be-pexels-photo-3679044.jpeg",
+    "id": 27,
+    "Type": "Female",
+    "Clothes": "T-Shirt",
+    "Pants": "Cargo",
+    "Accecories": "Necklace",
+    "Footwear": "Sneaker",
+    "Color": {
+      "choices": [
+        "Black",
+        "Green"
+      ]
+    }
+  },
+  {
+    "image": "/data/upload/86c7be-Female_50.jpg",
+    "id": 10,
+    "Type": "Female",
+    "Clothes": "Shirt",
+    "Pants": "Corduroy",
+    "Color": "White"
+  },
+  {
+    "image": "/data/upload/d3ae54-Kids_49.jpg",
+    "id": 23,
+    "Type": {
+      "choices": [
+        "Female",
+        "Kids"
+      ]
+    },
+    "Clothes": "Dress",
+    "Pants": {
+      "choices": [
+        "Skirt",
+        "Corduroy"
+      ]
+    },
+    "Accecories": "Veil",
+    "Footwear": "Sneaker",
+    "Color": {
+      "choices": [
+        "White",
+        "Brown"
+      ]
+    }
+  },
+  {
+    "image": "/data/upload/592746-Female_32.jpg",
+    "id": 3,
+    "Type": "Female",
+    "Clothes": "Shirt",
+    "Color": {
+      "choices": [
+        "White",
+        "Blue"
+      ]
+    }
+  },
+  {
+    "image": "/data/upload/d0fb10-Female_51.jpg",
+    "id": 19,
+    "Clothes": "T-Shirt",
+    "Type": "Female",
+    "Pants": "Jeans",
+    "Accecories": "Eye Glasses",
+    "Color": {
+      "choices": [
+        "Grey",
+        "Blue"
+      ]
+    }
+  },
+  {
+    "image": "/data/upload/94f955-Female_33.jpg",
+    "id": 4,
+    "Type": "Female",
+    "Clothes": "Dress",
+    "Color": "White"
+  },
+  {
+    "image": "/data/upload/dff94a-Kids_47.jpg",
+    "id": 22,
+    "Type": "Kids",
+    "Clothes": "Dress",
+    "Pants": "Skirt",
+    "Color": "White"
+  },
+  {
+    "image": "/data/upload/ebff01-Female_48.jpg",
+    "id": 9,
+    "Type": "Female",
+    "Clothes": "Dress",
+    "Pants": "Corduroy",
+    "Accecories": "Veil",
+    "Footwear": "Sneaker",
+    "Color": {
+      "choices": [
+        "Grey",
+        "Blue"
+      ]
+    }
+  },
+  {
+    "image": "/data/upload/0018db-Female_43.jpg",
+    "id": 6,
+    "Type": "Female",
+    "Clothes": "Hoodie",
+    "Pants": {
+      "choices": [
+        "Jeans",
+        "Short"
+      ]
+    },
+    "Color": {
+      "choices": [
+        "Grey",
+        "Blue"
+      ]
+    }
+  },
+  {
+    "image": "/data/upload/03c00e-Female_8.jpg",
+    "id": 0,
+    "Type": "Female",
+    "Clothes": "Dress",
+    "Pants": {
+      "choices": [
+        "Short",
+        "Skirt"
+      ]
+    },
+    "Footwear": "Slipper",
+    "Color": "White"
+  },
+  {
+    "image": "/data/upload/2e7a92-Female_20.jpg",
+    "id": 1,
+    "Type": "Female",
+    "Clothes": "Jacket",
+    "Accecories": "Hat",
+    "Color": "Black"
+  },
+  {
+    "image": "/data/upload/7864a8-Female_44.jpg",
+    "id": 7,
+    "Type": "Female",
+    "Clothes": "Dress",
+    "Pants": "Skirt",
+    "Color": "White"
+  },
+  {
+    "image": "/data/upload/edc1aa-Kids_50.jpg",
+    "id": 24,
+    "Type": "Kids",
+    "Clothes": {
+      "choices": [
+        "Shirt",
+        "Dress"
+      ]
+    },
+    "Pants": "Corduroy",
+    "Accecories": "Necklace",
+    "Footwear": "Sneaker",
+    "Color": {
+      "choices": [
+        "White",
+        "Purple"
+      ]
+    }
+  },
+  {
+    "image": "/data/upload/4296c8-Female_52.jpg",
+    "id": 20,
+    "Type": "Female",
+    "Clothes": "Dress",
+    "Pants": "Skirt",
+    "Color": "White"
+  },
+  {
+    "image": "/data/upload/c697af-Female_21.jpg",
+    "id": 2,
+    "Type": "Female",
+    "Clothes": "T-Shirt",
+    "Pants": "Training",
+    "Accecories": "Eye Glasses",
+    "Footwear": "Sneaker",
+    "Color": "Black"
+  },
+  {
+    "image": "/data/upload/12590e-Female_40.jpg",
+    "id": 5,
+    "Type": "Female",
+    "Clothes": "Hoodie",
+    "Pants": "Short",
+    "Color": {
+      "choices": [
+        "Grey",
+        "Blue"
+      ]
+    }
+  },
+  {
+    "image": "/data/upload/cf74c4-pexels-photo-975008.jpeg",
+    "id": 26,
+    "Type": "Female",
+    "Clothes": "Shirt",
+    "Pants": "Short",
+    "Accecories": "Eye Glasses",
+    "Footwear": "Leather",
+    "Color": {
+      "choices": [
+        "White",
+        "Red"
+      ]
+    }
+  },
+  {
+    "image": "/data/upload/e4b54d-Kids_51.jpg",
+    "id": 25,
+    "Type": "Kids",
+    "Clothes": "Dress",
+    "Color": "Red"
+  }
+]

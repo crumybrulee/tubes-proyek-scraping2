@@ -1,0 +1,306 @@
+[
+  {
+    "image": "/data/upload/8df8a9-Female_16.jpg",
+    "id": 8,
+    "Clothes": "Suit",
+    "Accecories": "Belt",
+    "Footwear": "Heels",
+    "Color": "Red"
+  },
+  {
+    "image": "/data/upload/13b982-Female_26.jpg",
+    "id": 16,
+    "Type": "Female",
+    "Clothes": "Dress",
+    "Pants": "Skirt",
+    "Accecories": {
+      "choices": [
+        "Eye Glasses",
+        "Watch"
+      ]
+    },
+    "Color": {
+      "choices": [
+        "White",
+        "Pink"
+      ]
+    }
+  },
+  {
+    "image": "/data/upload/65f9c0-Female_29.jpg",
+    "id": 18,
+    "Type": "Female",
+    "Clothes": "Shirt",
+    "Pants": "Skirt",
+    "Footwear": "Heels",
+    "Color": {
+      "choices": [
+        "Blue",
+        "Yellow"
+      ]
+    }
+  },
+  {
+    "image": "/data/upload/43a732-Female_18.jpg",
+    "id": 10,
+    "Type": "Female",
+    "Clothes": "T-Shirt",
+    "Pants": "Jeans",
+    "Footwear": "Heels",
+    "Accecories": "Eye Glasses",
+    "Color": {
+      "choices": [
+        "Brown",
+        "Blue"
+      ]
+    }
+  },
+  {
+    "image": "/data/upload/06b179-Female_4.jpg",
+    "id": 3,
+    "Type": "Female",
+    "Clothes": {
+      "choices": [
+        "Shirt",
+        "Jacket"
+      ]
+    },
+    "Accecories": "Eye Glasses",
+    "Color": {
+      "choices": [
+        "Black",
+        "White"
+      ]
+    }
+  },
+  {
+    "image": "/data/upload/af5d53-Female_31.jpg",
+    "id": 19,
+    "Type": "Female",
+    "Clothes": {
+      "choices": [
+        "T-Shirt",
+        "Jacket"
+      ]
+    },
+    "Pants": "Jogger",
+    "Accecories": "Eye Glasses",
+    "Color": "Red"
+  },
+  {
+    "image": "/data/upload/a0e0d3-Female_6.jpg",
+    "id": 4,
+    "Clothes": {
+      "choices": [
+        "T-Shirt",
+        "Jacket"
+      ]
+    },
+    "Type": "Female",
+    "Pants": "Skirt",
+    "Accecories": {
+      "choices": [
+        "Cap",
+        "Hat"
+      ]
+    },
+    "Color": {
+      "choices": [
+        "Blue",
+        "Pink"
+      ]
+    }
+  },
+  {
+    "image": "/data/upload/9ee49e-Female_25.jpg",
+    "id": 15,
+    "Color": {
+      "choices": [
+        "White",
+        "Green"
+      ]
+    },
+    "Type": "Female",
+    "Clothes": "Shirt",
+    "Pants": "Skirt",
+    "Accecories": {
+      "choices": [
+        "Hat",
+        "Eye Glasses"
+      ]
+    }
+  },
+  {
+    "image": "/data/upload/4575f6-Female_27.jpg",
+    "id": 17,
+    "Pants": "Kulot",
+    "Clothes": "T-Shirt",
+    "Type": "Female",
+    "Accecories": {
+      "choices": [
+        "Hat",
+        "Veil",
+        "Belt"
+      ]
+    },
+    "Footwear": "Sneaker",
+    "Color": {
+      "choices": [
+        "Black",
+        "Brown"
+      ]
+    }
+  },
+  {
+    "image": "/data/upload/f6a75d-Female_17.jpg",
+    "id": 9,
+    "Type": "Female",
+    "Clothes": "T-Shirt",
+    "Pants": "Skirt",
+    "Accecories": {
+      "choices": [
+        "Hat",
+        "Eye Glasses"
+      ]
+    },
+    "Footwear": "Sneaker",
+    "Color": {
+      "choices": [
+        "White",
+        "Yellow"
+      ]
+    }
+  },
+  {
+    "image": "/data/upload/d08334-Female_11.jpg",
+    "id": 6,
+    "Type": "Female",
+    "Clothes": "Dress",
+    "Footwear": "Heels",
+    "Color": {
+      "choices": [
+        "Black",
+        "White"
+      ]
+    }
+  },
+  {
+    "image": "/data/upload/756967-Female_19.jpg",
+    "id": 11,
+    "Type": "Female",
+    "Clothes": "Dress",
+    "Pants": "Skirt",
+    "Accecories": "Belt",
+    "Color": {
+      "choices": [
+        "Yellow",
+        "Purple"
+      ]
+    }
+  },
+  {
+    "image": "/data/upload/9371a5-Female_1.jpg",
+    "id": 0,
+    "Type": "Female",
+    "Clothes": "Shirt",
+    "Pants": "Skirt",
+    "Accecories": "Eye Glasses",
+    "Color": {
+      "choices": [
+        "White",
+        "Brown"
+      ]
+    }
+  },
+  {
+    "image": "/data/upload/41e99a-Female_2.jpg",
+    "id": 1,
+    "Type": "Female",
+    "Clothes": {
+      "choices": [
+        "Shirt",
+        "Jacket"
+      ]
+    },
+    "Pants": "Skirt",
+    "Footwear": "Sneaker",
+    "Accecories": "Eye Glasses",
+    "Color": {
+      "choices": [
+        "Black",
+        "White",
+        "Yellow"
+      ]
+    }
+  },
+  {
+    "image": "/data/upload/5cdab9-Female_12.jpg",
+    "id": 7,
+    "Clothes": "Shirt",
+    "Type": "Female",
+    "Accecories": "Hat",
+    "Color": "Black"
+  },
+  {
+    "image": "/data/upload/26afbd-Female_22.jpg",
+    "id": 12,
+    "Type": "Female",
+    "Clothes": "Shirt",
+    "Pants": "Jeans",
+    "Footwear": "Sneaker",
+    "Color": {
+      "choices": [
+        "Black",
+        "Blue"
+      ]
+    }
+  },
+  {
+    "image": "/data/upload/0cdac1-Female_3.jpg",
+    "id": 2,
+    "Type": "Female",
+    "Clothes": "Sweater",
+    "Accecories": "Watch",
+    "Color": "White"
+  },
+  {
+    "image": "/data/upload/7e27b2-Female_23.jpg",
+    "id": 13,
+    "Type": "Female",
+    "Clothes": "Dress",
+    "Accecories": "Watch",
+    "Color": "White",
+    "Pants": "Skirt"
+  },
+  {
+    "image": "/data/upload/d9eff2-Female_24.jpg",
+    "id": 14,
+    "Type": "Female",
+    "Clothes": "Shirt",
+    "Pants": "Jeans",
+    "Color": {
+      "choices": [
+        "Brown",
+        "Blue"
+      ]
+    }
+  },
+  {
+    "image": "/data/upload/124052-Female_7.jpg",
+    "id": 5,
+    "Type": "Female",
+    "Clothes": {
+      "choices": [
+        "Jacket",
+        "Dress"
+      ]
+    },
+    "Pants": "Skirt",
+    "Color": {
+      "choices": [
+        "Black",
+        "Red"
+      ]
+    }
+  }
+]
